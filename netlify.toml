@@ -1,0 +1,4 @@
+[build]
+  base = "app"
+  command = "npx prisma generate && yarn build"
+
